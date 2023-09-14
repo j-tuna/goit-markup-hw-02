@@ -11,7 +11,7 @@ color: #434455;
 .link:focus {
     color: #404BBF;
 }
-.logo-nav .logo-studio span {
+.logo-nav .logo-studio {
     color: #2E2F42;
         font-family: "Raleway", sans-serif;
             font-size: 18px;
@@ -45,6 +45,9 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.section {
+    background-color: #FFFFFF;
+}
 .page-header {
     background-color: #2e2f42;
 }
@@ -77,13 +80,6 @@ cursor: pointer;
     line-height: 1.5;
     letter-spacing: 0.04em;
 }
-.sectiontri {
-    background-color: #F4F4FD;
-}
-.sectiontri .sectiontri-list {
-background-color: #FFFFFF;
-}
-
 .section-title {
 color: #2E2F42;
     text-align: center;
