@@ -33,7 +33,7 @@ color: #434455;
 }
 
 .logo .list {
-    color: #2e2f42;
+        color: #2e2f42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -44,7 +44,10 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.section {
+.section-drie {
+    background-color: #F4F4FD;
+}
+.section-drie .list {
     background-color: #FFFFFF;
 }
 .page-header {
