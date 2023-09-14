@@ -21,8 +21,7 @@ color: #434455;
             text-transform: uppercase;
             text-decoration: none;
         }
-.logo-nav {
-    text-decoration: none;
+.logo .logo-nav {
     color: #4D5AE5;
     font-family: "Raleway", sans-serif;
         font-size: 18px;
