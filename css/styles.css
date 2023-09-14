@@ -1,4 +1,4 @@
-.body {
+body {
 font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -12,6 +12,9 @@ color: #434455;
 .link:focus {
     color: #404BBF;
 }
+.logo-nav .logo-studio span {
+    color: #2E2F42;
+}
 .logo-nav {
     text-decoration: none;
     color: #4D5AE5;
@@ -23,12 +26,9 @@ color: #434455;
         text-transform: uppercase;
         text-decoration: none;
 }
-.logo-nav .logo-studio span {
-    color: #2E2F42;
-}
 
 .logo .list {
-    color: #2E2F42;
+    color: #2e2f42;
         font-size: 16px;
         font-weight: 500;
         line-height: 1.5;
@@ -75,7 +75,7 @@ cursor: pointer;
     background-color: #F4F4FD
 }
 .sectiontri .list {
-background-color: #FFFFFF
+background-color: #FFFFFF;
 }
 
 .section-title {
