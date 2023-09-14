@@ -49,7 +49,7 @@ color: #434455;
     letter-spacing: 0.02em;
 }
 .address .link:hover,
-.address .link:hover {
+.address .link:focus {
     color: #404BBF;
 }
 .page-header {
