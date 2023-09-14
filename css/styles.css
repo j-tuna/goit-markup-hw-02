@@ -21,7 +21,7 @@ font-family: "Raleway", sans-serif;
         letter-spacing: 0.54px;
         text-transform: uppercase;
 }
- .logo .logo-web {
+.logo .logo-web {
     text-decoration: none;
     color: #4D5AE5;
 }
@@ -93,4 +93,28 @@ letter-spacing: 0.02em;
     letter-spacing: 0.02em;
     color: #434455;
     line-height: 1.5;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.footer .logo-web {
+    color: #4D5AE5;
+        font-family: "Raleway", sans-serif;
+            font-weight: 700;
+            font-size: 18px;
+            line-height: 1.17;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
+}
+.logo-studio-two {
+    color: #F4F4FD;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+.footer .text {
+    color: #F4F4FD;
 }
