@@ -7,12 +7,13 @@ font-family: "Roboto", sans-serif;
 text-decoration: none;
 color: #434455;
 }
-.link:hover,
-.link:focus {
-    color: #404BBF;
-}
+
 .logo .list-header .link {
     color: #2E2F42;
+}
+.logo .list-header .link:hover,
+.logo .list-header .link:focus {
+    color: #404BBF;
 }
 .logo-nav .logo-studio {
     color: #2e2f42;
@@ -47,7 +48,10 @@ color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-
+.address .link:hover,
+.address .link:hover {
+    color: #404BBF;
+}
 .page-header {
     background-color: #2e2f42;
 }
