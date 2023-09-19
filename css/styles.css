@@ -120,7 +120,6 @@ letter-spacing: 0.02em;
 .footer .text {
     color: #F4F4FD;
 }
-ul,
-ol {
+ul {
     list-style-type: none;
 }
