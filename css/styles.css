@@ -29,12 +29,14 @@ color: #434455;
         letter-spacing: 0.32px; 
         text-decoration: none;
 }
-.link-header .link:hover,
-.link-header .link:focus {
+.list-header .link-header .link:hover,
+.list-header .link-header .link:focus {
     color: #404BBF;
 }
 .address {
     font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .address .link:hover,
 .address .link:focus {
